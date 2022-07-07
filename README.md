@@ -11,8 +11,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/livinglifemeaning/Product-Preview-Card
+- Live Site URL: https://livinglifemeaning.github.io/Product-Preview-Card/
 
 
 ### Built with
@@ -24,9 +24,9 @@ Users should be able to:
 
 
 ### Notes
-Time to complete: 1hr 10m 
+- Time to complete: 1hr 10m 
 
-Question: Can I have image adapt container's border radius instead of manually doing so? 
+- Question: Can I have image adapt container's border radius instead of manually doing so? 
 
 - HSL is cool because last property controls brightness, useful for hover state
 
